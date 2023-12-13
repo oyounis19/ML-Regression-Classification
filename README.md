@@ -30,7 +30,7 @@ The repository is organized as follows:
 2. **Model Implementation:** Utilize scripts in the respective `code/` directories for machine learning models.
 3. **Analysis:** Review results and performance metrics in the `results/` directory.
 
-# Team Members (7)
+## Team Members (7)
 - [**Omar Younis**](https://github.com/oyounis19) - Project Lead
 - [**Omar Adel**](https://github.com/omar55549)
 - [**Khaled Ashraf**](https://github.com/khaaaleed-5)
